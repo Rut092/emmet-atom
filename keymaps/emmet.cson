@@ -61,5 +61,5 @@
   'ctrl-w': 'emmet:wrap-with-abbreviation'
   'alt-cmd-enter': 'emmet:interactive-expand-abbreviation'
 
-'.platform-darwin atom-pane atom-text-editor:not([mini])':
-  'cmd-/': 'emmet:toggle-comment'
+'atom-text-editor:not([mini])':
+  'ctrl-alt-shift-c': 'emmet:expand-abbreviation'
